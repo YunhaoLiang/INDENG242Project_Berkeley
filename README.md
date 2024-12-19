@@ -12,7 +12,7 @@ This project focuses on applying machine learning techniques to analyze time-ser
 - `main.tex`: LaTeX source file for the report.
 - `main.pdf`: Final compiled report.
 - `SP500_N225.csv`: Data file containing weekly adjusted closing prices for the S&P 500 and Nikkei 225 indices.
-- `code/`: Folder containing R code for data processing, modeling, and simulations.
+- `r code`: containing R code for data processing, modeling, and simulations.
 - `plots/`: Folder containing plots and figures used in the report.
 
 ## How to Run
